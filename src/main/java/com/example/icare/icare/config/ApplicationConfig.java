@@ -1,6 +1,6 @@
-package com.example.icare.config;
+package com.example.icare.icare.config;
 /*
-import com.example.icare.user.UserRepository;
+import com.example.icare.icare.user.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

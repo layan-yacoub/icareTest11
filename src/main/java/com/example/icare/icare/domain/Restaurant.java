@@ -1,5 +1,5 @@
-package com.example.icare.domain;
-import com.example.icare.user.User;
+package com.example.icare.icare.domain;
+import com.example.icare.icare.user.User;
 import jakarta.persistence.*;
 import lombok.*;
 

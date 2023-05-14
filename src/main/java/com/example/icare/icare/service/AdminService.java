@@ -1,6 +1,6 @@
-package com.example.icare.service;
+package com.example.icare.icare.service;
 
-import com.example.icare.repository.AdminRepository;
+import com.example.icare.icare.repository.AdminRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 @AllArgsConstructor

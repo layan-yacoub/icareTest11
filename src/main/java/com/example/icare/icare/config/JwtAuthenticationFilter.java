@@ -1,6 +1,6 @@
-package com.example.icare.config;
+package com.example.icare.icare.config;
 /*
-import com.example.icare.token.TokenRepository;
+import com.example.icare.icare.token.TokenRepository;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

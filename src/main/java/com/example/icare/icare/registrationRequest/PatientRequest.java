@@ -1,4 +1,4 @@
-package com.example.icare.registrationRequest;
+package com.example.icare.icare.registrationRequest;
 
 import java.util.Date;
 

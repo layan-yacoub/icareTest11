@@ -1,6 +1,6 @@
-package com.example.icare.service;
+package com.example.icare.icare.service;
 
-import com.example.icare.repository.RestaurantRepository;
+import com.example.icare.icare.repository.RestaurantRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

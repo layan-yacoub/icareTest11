@@ -1,4 +1,4 @@
-package com.example.icare.auth;
+package com.example.icare.icare.auth;
 /*import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

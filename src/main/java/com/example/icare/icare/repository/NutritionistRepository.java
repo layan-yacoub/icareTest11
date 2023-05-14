@@ -1,7 +1,7 @@
-package com.example.icare.repository;
+package com.example.icare.icare.repository;
 
 
-import com.example.icare.domain.Nutritionist;
+import com.example.icare.icare.domain.Nutritionist;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;

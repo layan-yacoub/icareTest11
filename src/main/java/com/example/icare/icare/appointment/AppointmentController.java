@@ -1,6 +1,6 @@
-package com.example.icare.appointment;
+package com.example.icare.icare.appointment;
 
-import com.example.icare.domain.Payment;
+import com.example.icare.icare.domain.Payment;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
 import lombok.RequiredArgsConstructor;

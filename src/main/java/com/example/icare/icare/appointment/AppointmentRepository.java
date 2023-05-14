@@ -1,6 +1,5 @@
-package com.example.icare.appointment;
+package com.example.icare.icare.appointment;
 
-import com.example.icare.appointment.Appointment;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

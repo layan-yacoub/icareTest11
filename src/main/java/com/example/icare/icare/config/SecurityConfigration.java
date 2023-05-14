@@ -1,4 +1,4 @@
-package com.example.icare.config;
+package com.example.icare.icare.config;
 /*
 import jakarta.servlet.Filter;
 import lombok.RequiredArgsConstructor;
@@ -16,9 +16,9 @@ import org.springframework.security.web.SecurityFilterChain;
 import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
 import org.springframework.security.web.authentication.logout.LogoutHandler;
 
-import static com.example.icare.user.Permission.*;
-import static com.example.icare.user.Role.ADMIN;
-import static com.example.icare.user.Role.MANAGER;
+import static com.example.icare.icare.user.Permission.*;
+import static com.example.icare.icare.user.Role.ADMIN;
+import static com.example.icare.icare.user.Role.MANAGER;
 import static org.springframework.http.HttpMethod.*;
 
 public class SecurityConfigration {

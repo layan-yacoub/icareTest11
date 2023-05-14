@@ -1,11 +1,11 @@
-package com.example.icare.auth;
+package com.example.icare.icare.auth;
 /*
-import com.example.icare.auth.RegisterRequest;
-import com.example.icare.config.JwtService;
-import com.example.icare.token.Token;
-import com.example.icare.token.TokenRepository;
-import com.example.icare.token.TokenType;
-import com.example.icare.user.UserRepository;
+import com.example.icare.icare.auth.RegisterRequest;
+import com.example.icare.icare.config.JwtService;
+import com.example.icare.icare.token.Token;
+import com.example.icare.icare.token.TokenRepository;
+import com.example.icare.icare.token.TokenType;
+import com.example.icare.icare.user.UserRepository;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
@@ -13,7 +13,7 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpHeaders;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
-import com.example.icare.user.User;
+import com.example.icare.icare.user.User;
 
 
 import org.springframework.security.crypto.password.PasswordEncoder;

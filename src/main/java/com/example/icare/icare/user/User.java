@@ -1,13 +1,13 @@
-package com.example.icare.user;
-import com.example.icare.domain.Report;
-//import com.example.icare.token.Token;
+package com.example.icare.icare.user;
+
+import com.example.icare.icare.domain.Report;
 import jakarta.persistence.*;
-import lombok.*;
-import org.springframework.security.core.GrantedAuthority;
-import org.springframework.security.core.userdetails.UserDetails;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.List;
 @Builder
 @Data

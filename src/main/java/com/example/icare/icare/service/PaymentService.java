@@ -1,7 +1,7 @@
-package com.example.icare.service;
+package com.example.icare.icare.service;
 
-import com.example.icare.domain.Payment;
-import com.example.icare.repository.PaymentRepository;
+import com.example.icare.icare.domain.Payment;
+import com.example.icare.icare.repository.PaymentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

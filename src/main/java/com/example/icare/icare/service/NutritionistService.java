@@ -1,7 +1,7 @@
-package com.example.icare.service;
+package com.example.icare.icare.service;
 
-import com.example.icare.domain.Nutritionist;
-import com.example.icare.repository.NutritionistRepository;
+import com.example.icare.icare.domain.Nutritionist;
+import com.example.icare.icare.repository.NutritionistRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

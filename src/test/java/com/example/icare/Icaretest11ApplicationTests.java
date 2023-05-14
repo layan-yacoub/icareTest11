@@ -1,4 +1,4 @@
-package com.example.icaretest11;
+package com.example.icare;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

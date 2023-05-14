@@ -1,5 +1,5 @@
-package com.example.icare.auth;
-/*import com.example.icare.user.Role;
+package com.example.icare.icare.auth;
+/*import com.example.icare.icare.user.Role;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

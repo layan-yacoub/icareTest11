@@ -1,4 +1,4 @@
-package com.example.icare.appointment;
+package com.example.icare.icare.appointment;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

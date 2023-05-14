@@ -1,7 +1,7 @@
-package com.example.icare.domain;
+package com.example.icare.icare.domain;
 
-import com.example.icare.appointment.Appointment;
-import com.example.icare.user.User;
+import com.example.icare.icare.appointment.Appointment;
+import com.example.icare.icare.user.User;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;

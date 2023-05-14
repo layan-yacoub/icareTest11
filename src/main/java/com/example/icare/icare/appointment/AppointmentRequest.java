@@ -1,4 +1,4 @@
-package com.example.icare.appointment;
+package com.example.icare.icare.appointment;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

@@ -1,6 +1,6 @@
-package com.example.icare.controller;
+package com.example.icare.icare.controller;
 
-import com.example.icare.service.ReportService;
+import com.example.icare.icare.service.ReportService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

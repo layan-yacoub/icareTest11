@@ -1,6 +1,6 @@
-package com.example.icare.controller;
+package com.example.icare.icare.controller;
 
-import com.example.icare.service.MessageService;
+import com.example.icare.icare.service.MessageService;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

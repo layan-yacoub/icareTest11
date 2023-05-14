@@ -1,6 +1,6 @@
-package com.example.icare.repository;
+package com.example.icare.icare.repository;
 
-import com.example.icare.domain.Payment;
+import com.example.icare.icare.domain.Payment;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

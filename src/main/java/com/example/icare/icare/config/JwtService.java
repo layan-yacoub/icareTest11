@@ -1,4 +1,4 @@
-package com.example.icare.config;
+package com.example.icare.icare.config;
 /*
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

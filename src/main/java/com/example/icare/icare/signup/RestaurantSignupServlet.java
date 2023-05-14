@@ -1,8 +1,8 @@
-/****
-package com.example.icare.signup;
+package com.example.icare.icare.signup; /****
 
-import com.example.icare.domain.Restaurant;
-import com.example.icare.user.User;
+
+import com.example.icare.icare.domain.Restaurant;
+import com.example.icare.icare.user.User;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;

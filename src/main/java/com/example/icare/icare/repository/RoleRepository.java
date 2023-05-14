@@ -1,5 +1,5 @@
-package com.example.icare.repository;
-import com.example.icare.user.Role;
+package com.example.icare.icare.repository;
+import com.example.icare.icare.user.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface RoleRepository extends JpaRepository<Role, Long> {

@@ -1,4 +1,4 @@
-package com.example.icare.domain;
+package com.example.icare.icare.domain;
 import jakarta.persistence.*;
 import lombok.*;
 

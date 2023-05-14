@@ -1,4 +1,4 @@
-package com.example.icare.controller;
+package com.example.icare.icare.controller;
 
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;

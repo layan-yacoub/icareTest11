@@ -1,5 +1,5 @@
-/*package com.example.icare.token;
-import com.example.icare.user.User;
+package com.example.icare.icare.token;/*
+import com.example.icare.icare.user.User;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;

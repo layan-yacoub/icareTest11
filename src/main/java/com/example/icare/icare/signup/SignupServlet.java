@@ -1,5 +1,5 @@
-/*package com.example.icare.signup;
-import com.example.icare.user.User;
+package com.example.icare.icare.signup;/*
+import com.example.icare.icare.user.User;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;

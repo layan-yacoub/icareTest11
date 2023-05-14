@@ -1,6 +1,6 @@
-package com.example.icare.service;
+package com.example.icare.icare.service;
 
-import com.example.icare.repository.MessageRepository;
+import com.example.icare.icare.repository.MessageRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

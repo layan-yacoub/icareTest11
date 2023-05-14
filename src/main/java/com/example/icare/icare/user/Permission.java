@@ -1,4 +1,4 @@
-package com.example.icare.user;
+package com.example.icare.icare.user;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

@@ -1,12 +1,11 @@
-package com.example.icare.appointment;
+package com.example.icare.icare.appointment;
 
-import com.example.icare.domain.Nutritionist;
-import com.example.icare.domain.Patient;
+import com.example.icare.icare.domain.Nutritionist;
+import com.example.icare.icare.domain.Patient;
 import jakarta.persistence.*;
 import lombok.*;
 
 import java.sql.Timestamp;
-import java.time.LocalDateTime;
 
 @Setter
 @Getter

@@ -1,4 +1,4 @@
-package com.example.icare.registrationRequest;
+package com.example.icare.icare.registrationRequest;
 
 public class UserRequest {
    private String firstName ;

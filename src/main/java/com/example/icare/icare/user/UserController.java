@@ -1,13 +1,15 @@
-package com.example.icare.user;
+package com.example.icare.icare.user;
 
-import com.example.icare.registrationRequest.LoginRequest;
-import com.example.icare.service.UserService;
+import com.example.icare.icare.registrationRequest.LoginRequest;
+import com.example.icare.icare.service.UserService;
 import jakarta.servlet.http.HttpSession;
-import org.apache.tomcat.util.net.openssl.ciphers.Authentication;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.*;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 @RestController //is used in REST Web services & mark class as Controller Class
 
